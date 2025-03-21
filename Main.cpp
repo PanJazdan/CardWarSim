@@ -74,7 +74,7 @@ int main(void){
     float total_avg1=0, total_avg2=0;
     int total_rounds = 200;
 
-    for(int i=0; i<total_rounds ;i++){ //opcjonalna pętla do zbierania danych
+for(int i=0; i<total_rounds ;i++){ //opcjonalna pętla do zbierania danych
 
     Player gracz1(L_K/2), gracz2(L_K/2);
     Card talia[L_K]; //tworzenie talii
