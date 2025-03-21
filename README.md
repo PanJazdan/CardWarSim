@@ -40,6 +40,7 @@ Plik Main zawiera przebieg gry. Zaimplementowany jest system walki *bool walcz(P
 Przed rozpoczęciem wojny talia jest tasowana i rozdawana równo po połowie graczom.
 
 <h2>Uwagi</h2>
+
 Aktualnie wysłana wersja posiada zakomentowane wypisywanie talii graczy i symuluje 200 gier w celu zwizualizowania statystyk. Statystyki są zapisywane w pliku **dane.txt**. 
 Mozna tam zobaczyć dla każdej rozgrywki ile trwała rund(bitew) jaka była średnia wartość kart obu graczy i który z graczy wygrał. Na końcu pliku jest zapisana średnia ilość rund 200 rozgrywkach ile średnio każdy z graczy wygrał i jaka była średnia średnich wartości początkowych każdego z graczy.
 
